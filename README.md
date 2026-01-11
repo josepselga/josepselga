@@ -18,9 +18,6 @@ Here are some ideas to get you started:
 🚀 **Cloud Systems Engineer | DevOps & Software Enthusiast**  
 📍 Barcelona, Spain | 🔗 [LinkedIn](https://www.linkedin.com/in/josep-selga/)  
 
-## 🛠️ About Me
-Currently working as Cloud Systems Engineer at OpenNebula.
-
 ## 🔧 Tech Stack
 - **Language:** PHP, C, Ruby, Python
 - **Cloud:** AWS, Azure  
